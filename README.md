@@ -2,6 +2,13 @@
 
 A Python wrappper for libhackrf
 
+# ASH UPDATE
+
+Below is the original docs for the pyhackrf library - added some chatgpt output to complete the transmission components. all other elements are the same and unchanged.
+
+see `test_tx_alt.py` or `test_tx_tone.py` for two examples
+
+
 # Description
 
 I wanted something like [pyrtldsr](https://github.com/roger-/pyrtlsdr) for the HackRF: a convenient python interface to handle calls to the libhackrf library.
